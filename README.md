@@ -21,7 +21,7 @@ This Project has a client and a server side.
 Currently uses Python 3.x.
 
 <p>Non-standart modul needed: PIL,Numpy,GoPIGo and cv2</p>
-Go to the start of the <p>client1_4.py<p> file in the client folder and edit HOST (= IP of RPI ) and (not necessarily) PORT.
+Go to the start of the <b>client1_4.py</b> file in the client folder and edit HOST (= IP of RPI ) and (not necessarily) PORT.
 
 
 <h1>2.Server: </h1>
@@ -30,7 +30,7 @@ Currently uses Python 2.x!!!
 
 <p>Non-standart modul needed: PIL,Numpy and cv2 </p>
 <p>You will also need a fully setup GoPiGo set.+ Im using Raspbian but other linux dist should be fine</p>
-Go to <b>main.py<b> in the server folder and edit HOST (=your standart Host, your Laptop or Pc that you want to use for remote control) and PORT (= same Port as client).
+Go to <b>main.py</b> in the server folder and edit HOST (=your standart Host, your Laptop or Pc that you want to use for remote control) and PORT (= same Port as client).
 
 
 <h1>3.Start</h1>
