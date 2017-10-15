@@ -14,7 +14,7 @@ Still missing:
 1. Full implementation of lane detection
 
 This Project has a client and a server side. 
-<br/>
+<br />
 <b>1. Client:</b>
 Currently uses Python 3.x.
 
