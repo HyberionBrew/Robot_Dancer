@@ -15,14 +15,17 @@ Still missing:
 
 This Project has a client and a server side.    
 
-<b>1. Client:</b>
+
+<h1>1. Client:</h1>
+
 Currently uses Python 3.x.
 
 <p>Non-standart modul needed: PIL,Numpy,GoPIGo and cv2</p>
 Go to the start of the client file and edit HOST (= IP of RPI ) and (not necessarily) PORT.
 
 
-<b>2.Server: </b>
+<h1>2.Server: </h1>
+
 Currently uses Python 2.x!!!
 
 <p>Non-standart modul needed: PIL,Numpy and cv2 </p>
@@ -30,7 +33,8 @@ Currently uses Python 2.x!!!
 Go to main.py and edit HOST (=your standart Host, your Laptop or Pc that you want to use for remote control) and PORT (= same Port as client).
 
 
-<b>3.Start</b>
+<h1>3.Start</h1>
+
 <p>To start the connection type <b>sudo python main.py</b> in the path of the server files</p>
 <p>To start the client open it in your IDE and Run it, everything else <b>should</b> happen automaticaly!
 
