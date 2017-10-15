@@ -24,7 +24,7 @@ Currently uses Python 3.x.
 Go to the start of the <b>client1_4.py</b> file in the client folder and edit HOST (= IP of RPI ) and (not necessarily) PORT.
 
 
-<h1>2.Server: </h1>
+<h1>2. Server: </h1>
 
 Currently uses Python 2.x!!!
 
@@ -33,7 +33,7 @@ Currently uses Python 2.x!!!
 Go to <b>main.py</b> in the server folder and edit HOST (=your standart Host, your Laptop or Pc that you want to use for remote control) and PORT (= same Port as client).
 
 
-<h1>3.Start</h1>
+<h1>3. Start</h1>
 
 <p>To start the connection type <b>sudo python main.py</b> in the path of the server files</p>
 <p>To start the client open it in your IDE and Run it, everything else <b>should</b> happen automaticaly!
